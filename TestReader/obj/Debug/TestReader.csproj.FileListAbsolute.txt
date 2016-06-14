@@ -1,0 +1,10 @@
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\TestReader.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\TestReader.pdb
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\CsvReader.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\CsvReader.pdb
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\obj\Debug\TestReader.csprojResolveAssemblyReference.cache
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\obj\Debug\TestReader.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\obj\Debug\TestReader.pdb
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\TestReader\bin\Debug\Data.csv

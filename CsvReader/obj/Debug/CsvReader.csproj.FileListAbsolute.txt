@@ -1,0 +1,4 @@
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\CsvReader\bin\Debug\CsvReader.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\CsvReader\bin\Debug\CsvReader.pdb
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.dll
+c:\users\deema_k\documents\visual studio 2015\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.pdb
